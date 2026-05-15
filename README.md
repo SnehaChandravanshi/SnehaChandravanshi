@@ -1,204 +1,220 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sneha%20Chandravanshi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AIML%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:232526,50:414345,100:6D28D9&text=Sneha%20Chandravanshi&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Engineer%20•%20ML%20Enthusiast&descAlignY=60&animation=fadeIn"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+AIML+Engineer;React+%7C+Node.js+%7C+Python+Developer;Building+AI-Powered+Scalable+Applications;VIT+Bhopal+%E2%80%94+Integrated+M.Tech+AI+%E2%80%982027" alt="Typing SVG" />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Scalable+Applications;Full+Stack+Developer+%7C+MERN+%7C+Python;Machine+Learning+%7C+Cloud+%7C+Backend+Systems;Passionate+About+Clean+Architecture+✨)](https://git.io/typing-svg)
+
+<br>
+
+<a href="mailto:chandravanshisneha102@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-1E1E2E?style=for-the-badge&logo=gmail&logoColor=A855F7"/>
 </a>
 
-<br/>
+<a href="https://www.linkedin.com/in/sneha-chandravanshi-374082252/">
+<img src="https://img.shields.io/badge/LinkedIn-1E1E2E?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sneha-chandravanshi-374082252/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandravanshisneha102@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-SnehaChandravanshi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SnehaChandravanshi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://snehachandravanshi.vercel.app/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Sneha1210-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Sneha1210/)
-[![Profile Views](https://komarev.com/ghpvc/?username=SnehaChandravanshi&style=for-the-badge&color=38bdf8&label=PROFILE+VIEWS)](https://github.com/SnehaChandravanshi)
+<a href="https://github.com/SnehaChandravanshi">
+<img src="https://img.shields.io/badge/GitHub-1E1E2E?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://snehachandravanshi.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-1E1E2E?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Sneha1210/">
+<img src="https://img.shields.io/badge/LeetCode-1E1E2E?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=SnehaChandravanshi&style=for-the-badge&color=A855F7"/>
 
 </div>
 
 ---
 
-# 👩‍💻 About Me
+# 🌸 About Me
 
-```python
-class SnehaChandravanshi:
+<img align="right" width="330" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
-    roles = [
-        "Full Stack Developer",
-        "AIML Engineer",
-        "Data Analyst"
-    ]
+### 👩‍💻 Full Stack Developer & AI Enthusiast
 
-    degree = "Integrated M.Tech in Artificial Intelligence @ VIT Bhopal (2027)"
+🎓 Integrated M.Tech in Artificial Intelligence at **VIT Bhopal University**  
+⚡ Passionate about **AI Systems, Backend Engineering & Scalable Applications**  
+🚀 Building impactful products using **MERN Stack, Python & Machine Learning**  
+🧠 Strong analytical mindset with **200+ DSA problems solved**  
+🏆 Finalist at **EY Techathon 5.0 & HP Power Lab 2.0**  
+🌱 Exploring **System Design, Cloud Infrastructure & Distributed Systems**
 
-    location = "Madhya Pradesh, India 🇮🇳"
+<br>
 
-    currently_learning = [
-        "System Design",
-        "Cloud Computing",
-        "Distributed Systems",
-        "Advanced AI Applications"
-    ]
 
-    looking_for = "Software Development / AIML / Full Stack opportunities"
-
-    fun_fact = "I love building AI-powered applications 🚀"
-```
+# 🧠 Tech Stack
 
 ---
 
-# 🛠️ Tech Stack
+## 🚀 Languages
 
-## 💻 Languages
+<p align="left">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-F59E0B?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-FACC15?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-2563EB?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-EF4444?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-2563EB?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-1D4ED8?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
----
-
-## ⚡ Full Stack & Frameworks
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+</p>
 
 ---
 
-## 🤖 AI / ML
+## 🧩 Frameworks & Libraries
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFCA28?style=for-the-badge&logo=huggingface&logoColor=black)
+<p align="left">
+
+<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-16A34A?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-052E16?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-0891B2?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+
+</p>
 
 ---
 
 ## 🗄️ Databases & Tools
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+<p align="left">
+
+<img src="https://img.shields.io/badge/PostgreSQL-1E3A8A?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-3B82F6?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-15803D?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F97316?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2563EB?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-F97316?style=for-the-badge&logo=postman&logoColor=white"/>
+
+</p>
+
+---
+
+## 🤖 AI / ML Stack
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F59E0B?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-312E81?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-164E63?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-F97316?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-DC2626?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FACC15?style=for-the-badge&logo=huggingface&logoColor=black"/>
+
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+---
 
-### 🧠 SkillAI — AI Learning Platform
+## 🧠 SkillAI — AI-Powered Learning Platform
 
-> AI-powered personalized learning roadmap generator.
+✨ Personalized AI roadmap generator designed to help users build structured learning paths.
 
-- 🚀 Generated **100+ personalized roadmaps**
+### 🌟 Highlights
+- 🚀 Generated **100+ personalized learning roadmaps**
 - ⚡ Optimized APIs improving latency by **25%**
-- 🔐 Secure JWT authentication
-- 🛠️ `React.js` · `Node.js` · `MongoDB` · `Groq API`
+- 🔐 Secure JWT-based authentication
+- 📦 Modular scalable backend architecture
+- 🎯 Built responsive and interactive UI
 
-</td>
+### ⚒️ Tech Stack
+`React.js` • `Node.js` • `Express.js` • `MongoDB` • `Groq API` • `TailwindCSS`
 
-<td width="50%">
+<br>
 
-### 🎙️ EchoAI — Conversational Voice Agent
+---
 
-> AI voice assistant integrating speech recognition, sentiment analysis & LLM inference.
+## 🎙️ EchoAI — Conversational Voice Assistant
 
+✨ End-to-end AI voice assistant integrating speech recognition, sentiment analysis & LLM inference.
+
+### 🌟 Highlights
 - ⚡ Reduced response latency to **< 8 seconds**
-- 🧩 Implemented fallback mechanisms
-- 📈 Improved system reliability
-- 🛠️ `Python` · `Mistral LLM` · `ElevenLabs API`
+- 🧠 Integrated speech recognition with LLM pipelines
+- 🔊 Added intelligent voice response system
+- 🧩 Implemented fallback mechanisms for reliability
+- 📈 Improved overall system robustness
 
-</td>
-</tr>
+### ⚒️ Tech Stack
+`Python` • `Mistral LLM` • `ElevenLabs API` • `VADER Sentiment` • `Speech Recognition`
 
-<tr>
-<td width="50%">
+<br>
 
-### 🥗 Nutrivista — Health-Focused Food Platform
+---
 
-> Full-stack food platform with chatbot automation and secure backend systems.
+## 🥗 Nutrivista — Health-Focused Food Platform
 
+✨ Smart health & nutrition platform with chatbot automation and personalized recommendations.
+
+### 🌟 Highlights
 - 🤖 Automated **85% of user queries**
-- 📈 Increased conversion by **22%**
-- 🔐 Secure authentication system
-- 🛠️ `React.js` · `Flask` · `SQL` · `Dialogflow`
+- 📈 Increased conversion rate by **22%**
+- 🔐 Implemented secure authentication system
+- 📊 Optimized SQL queries for faster response
+- 💬 Built AI chatbot using Dialogflow
 
-</td>
+### ⚒️ Tech Stack
+`React.js` • `Flask` • `SQL` • `Dialogflow` • `Python`
 
-<td width="50%">
-
-### 🧠 Deepfake Detection Research
-
-> Comparative benchmarking of ML & DL techniques for deepfake image detection.
-
-- 📄 Published research paper
-- 📊 AI model evaluation & benchmarking
-- 🧠 Worked on deep learning architectures
-- 🛠️ `Python` · `TensorFlow` · `Scikit-learn`
-
-</td>
-</tr>
-</table>
+<br>
 
 ---
 
-# 💼 Experience
-
-| Role | Company | Impact |
-|------|---------|--------|
-| 💻 **MERN Full Stack Developer Intern** | Ethnus | Developed **15+ REST APIs** and improved response time by **25%** |
-
----
 
 # 🏆 Achievements
 
-- 🥇 Ranked among the **Top 0.7%** out of **43,956 teams** in HP Power Lab 2.0
-- 🚀 Top **6.7% Finalist** at EY Techathon 5.0
-- 🍴 Finalist — Top 50 out of 350+ teams at CSIR-CFTRI Food Hackathon
-- 💡 Solved **200+ DSA problems**
-- ⭐ Achieved **5-Star SQL Rating** on HackerRank
+<div align="left">
+
+| Achievement | Details |
+|---|---|
+| 🥇 HP Power Lab 2.0 | Top **0.7%** among **43,956 teams** |
+| 🚀 EY Techathon 5.0 | Top **6.7% Finalist** |
+| 🍴 Food Hackathon | Finalist — Top 50 Teams |
+| 💡 DSA | Solved **200+ coding problems** |
+| ⭐ HackerRank | **5⭐ SQL Rating** |
+
+</div>
 
 ---
 
-# 📜 Certifications
+# 📚 Research & Publications
 
-- Oracle Certified AI Foundations Associate
-- Oracle Certified Generative AI Professional
-- HackerRank Certified Advanced SQL
-- Artificial Intelligence Foundations: Thinking Machines
-- Applied Machine Learning in Python
+<div align="left">
+
+📄 Deepfake Detection using Classical ML & Deep Learning Techniques  
+
+📄 Prakriti Parakh — AI Chatbot for Identifying Individual Prakriti  
+
+</div>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SnehaChandravanshi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SnehaChandravanshi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=C084FC&text_color=FFFFFF"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehaChandravanshi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehaChandravanshi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=FFFFFF"/>
 
-<br/>
+<br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SnehaChandravanshi&theme=tokyonight&hide_border=true" />
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=SnehaChandravanshi&theme=radical&hide_border=true&background=0D1117&stroke=6D28D9&ring=A855F7&fire=C084FC&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C084FC&sideLabels=A855F7&dates=E9D5FF"/>
 
 </div>
 
@@ -208,54 +224,47 @@ class SnehaChandravanshi:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SnehaChandravanshi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=SnehaChandravanshi&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=8"/>
 
 </div>
+
 
 ---
 
 # 🧩 LeetCode
 
-<div align="center">
+<div align="left">
 
-[![LeetCode Profile](https://img.shields.io/badge/Visit%20My%20LeetCode-Sneha1210-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Sneha1210/)
-
-<br/>
-
-<img src="https://leetcard.jacoblin.cool/Sneha1210?theme=dark&font=Fira%20Code&ext=heatmap&hide_border=true" alt="Sneha's LeetCode Stats" />
+<a href="https://leetcode.com/u/Sneha1210/">
+<img src="https://leetcard.jacoblin.cool/Sneha1210?theme=dark&font=Nunito&ext=heatmap"/>
+</a>
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+<div align="left">
 
-<div align="center">
+# 📬 Connect With Me
+
+<a href="mailto:chandravanshisneha102@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <a href="https://www.linkedin.com/in/sneha-chandravanshi-374082252/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/SnehaChandravanshi">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:chandravanshisneha102@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://snehachandravanshi.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-</div>
+<br><br>
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
-
-### 💡 Open to Software Development, AIML & Full Stack opportunities
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:232526,50:414345,100:6D28D9"/>
 
 </div>
