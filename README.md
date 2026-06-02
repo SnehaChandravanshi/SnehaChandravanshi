@@ -208,13 +208,13 @@
 
 <div align="center">
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SnehaChandravanshi&theme=radical"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SnehaChandravanshi&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=C084FC&text_color=FFFFFF&cache_seconds=1"/>
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SnehaChandravanshi&theme=radical"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehaChandravanshi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=FFFFFF&cache_seconds=1"/>
 
 <br><br>
 
-<img width="98%" src="https://streak-stats.demolab.com?user=SnehaChandravanshi&theme=radical&hide_border=true"/>
+<img width="98%" src="https://streak-stats.demolab.com?user=SnehaChandravanshi&theme=radical&hide_border=true&background=0D1117&stroke=6D28D9&ring=A855F7&fire=C084FC&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C084FC&sideLabels=A855F7&dates=E9D5FF&cache_seconds=1"/>
 
 </div>
 
