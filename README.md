@@ -228,7 +228,8 @@ src="https://streak-stats.demolab.com?user=SnehaChandravanshi&theme=radical&hide
 <div align="center">
 
 <img
-src="https://github-profile-trophy.vercel.app/?username=SnehaChandravanshi&theme=radical&no-frame=true&margin-w=15"/>
+src="https://github-profile-trophy.vercel.app/?username=SnehaChandravanshi&theme=radical&no-frame=true&margin-w=15&row=2&column=4"
+/>
 
 </div>
 
