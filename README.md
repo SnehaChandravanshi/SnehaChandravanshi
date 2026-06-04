@@ -223,11 +223,12 @@ src="https://streak-stats.demolab.com?user=SnehaChandravanshi&theme=radical&hide
 
 ---
 
-# 🏆 GitHub Trophies
+# 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SnehaChandravanshi&theme=react-dark" />
+<img width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=SnehaChandravanshi&theme=react-dark&hide_border=true"/>
 
 </div>
 
