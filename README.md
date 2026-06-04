@@ -208,13 +208,16 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SnehaChandravanshi&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=C084FC&text_color=FFFFFF&cache_seconds=1"/>
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api?username=SnehaChandravanshi&show_icons=true&theme=radical&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehaChandravanshi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=FFFFFF&cache_seconds=1"/>
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehaChandravanshi&layout=compact&theme=radical&hide_border=true"/>
 
 <br><br>
 
-<img width="98%" src="https://streak-stats.demolab.com?user=SnehaChandravanshi&theme=radical&hide_border=true&background=0D1117&stroke=6D28D9&ring=A855F7&fire=C084FC&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C084FC&sideLabels=A855F7&dates=E9D5FF&cache_seconds=1"/>
+<img width="98%"
+src="https://streak-stats.demolab.com?user=SnehaChandravanshi&theme=radical&hide_border=true"/>
 
 </div>
 
@@ -224,10 +227,10 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=SnehaChandravanshi&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=8"/>
+<img
+src="https://github-profile-trophy.vercel.app/?username=SnehaChandravanshi&theme=radical&no-frame=true&margin-w=15"/>
 
 </div>
-
 
 ---
 
