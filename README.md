@@ -204,25 +204,6 @@
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%"
-src="https://github-readme-stats.vercel.app/api?username=SnehaChandravanshi&show_icons=true&theme=radical&hide_border=true"/>
-
-<img width="49%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehaChandravanshi&layout=compact&theme=radical&hide_border=true"/>
-
-<br><br>
-
-<img width="98%"
-src="https://streak-stats.demolab.com?user=SnehaChandravanshi&theme=radical&hide_border=true"/>
-
-</div>
-
----
-
 # 📈 Contribution Graph
 
 <div align="center">
